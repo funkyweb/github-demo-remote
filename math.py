@@ -4,7 +4,7 @@ def add(x,y):
 
 
 def substract(x,y)
-    return x-y                  # on master branch 
+    pass                # on master branch 
 
 
 def multiple(x,y)
